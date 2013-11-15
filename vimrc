@@ -19,7 +19,7 @@ syntax on      "语法高亮
 set nocp        "关闭vi兼容模式
 filetype on      "检测文件类型
 filetype plugin on        "允许插件
-"set cursorline             "突出显示当前行
+set cursorline             "突出显示当前行
 set lbr                         "不在单词中间断行
 set showmatch          "括号匹配
 
